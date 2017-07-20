@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for plugin &quot;tx_timtabtagcloud_pi2&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="text_before_list_singular">There is %tagcount% post that is tagged with the tag '%tag%'.</label>
+			<label index="text_before_list_plural">There are %tagcount% posts that are tagged with the tag '%tag%'.</label>
+			<label index="text_after_list_singular"></label>
+			<label index="text_after_list_plural"></label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="text_before_list_singular">Es gibt %tagcount% Eintrag welcher mit &quot;%tag%&quot; getaggt ist.</label>
+			<label index="text_before_list_plural">Es gibt %tagcount% Einträge welche mit &quot;%tag%&quot; getaggt sind.</label>
+			<label index="text_after_list_singular"></label>
+			<label index="text_after_list_plural"></label>
+		</languageKey>
+	</data>
+	<orig_hash type="array">
+		<languageKey index="de" type="array">
+			<label index="text_before_list_singular" type="integer">112963101</label>
+			<label index="text_before_list_plural" type="integer">188546545</label>
+		</languageKey>
+	</orig_hash>
+	<orig_text type="array">
+		<languageKey index="de" type="array">
+			<label index="text_before_list_singular">There is %tagcount% post that is tagged with the tag '%tag%'.</label>
+			<label index="text_before_list_plural">There are %tagcount% posts that are tagged with the tag '%tag%'.</label>
+		</languageKey>
+	</orig_text>
+</T3locallang>

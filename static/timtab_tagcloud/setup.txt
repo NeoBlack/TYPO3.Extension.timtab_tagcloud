@@ -1,0 +1,20 @@
+#timtab_tagcloud
+plugin.tx_timtabtagcloud_pi1 {
+	limit = 10
+	sorting = desc
+	delimiter = ,
+	mincount = 1
+	pid = 
+	listPid = 
+	gradation = 9
+	shuffle = 1
+	linkType = ids
+}
+
+plugin.tx_timtabtagcloud_pi2 {
+	pid = 
+	textBeforeList = 1
+	textBeforeList.wrap = <p class="tx-timtabtagcloud-textBeforelist">|</p>
+	textAfterList = 0
+	textAfterList.wrap = <p class="tx-timtabtagcloud-textAfterlist">|</p>
+}

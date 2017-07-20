@@ -1,0 +1,39 @@
+(add new changes on top of this file)
+Please report bugs and new feature requests at http://bugs.naegler.net/
+07-05-31 Frank Naegler <typo3@naegler.net>
+	* Bugfix  #0000025
+
+07-04-01 Frank Naegler <typo3@naegler.net>
+	* implement the patch of Mario Rimann (Bug: 0000021) Make it easier to localize the extension, many thanks to Mario.
+
+06-11-04 Frank Naegler <typo3@naegler.net>
+	* security fixes
+	* new feature: now you can set the startingpoint by TypoScript (bugfix # 0000012)
+
+06-09-13 Frank Naegler <typo3@naegler.net>
+	* remove the url param tx_timtabtagcloud[count] which is unneeded (bugfix # 0000009)
+
+06-08-29 Frank Naegler <typo3@naegler.net>
+	* bugfix #0000006: in class.tx_timtabtagcloud_pi1.php: concatenating the $tagAttribs string in function getTagLink
+	* bugfix #0000005: full stop on the end of the default text
+
+06-08-16 Frank Naegler  <typo3@naegler.net>
+	* new feature: custom text with placeholder before or after the list of tags in pi2
+	* new URL-parameter for the new feature: tx_timtabtagcloud[count] and tx_timtabtagcloud[tagname]
+
+06-07-20 Frank Naegler  <typo3@naegler.net>
+	* Documentation updates
+	* new feature: the option linkType
+
+06-07-18 Frank Naegler  <typo3@naegler.net>
+
+	* Now you must configure the startingpoint (sysfolder of blogpost)
+
+06-07-16 Frank Naegler  <typo3@naegler.net>
+
+	* Documentation updates
+
+
+06-07-15 Frank Naegler  <typo3@naegler.net>
+
+	* Initial release

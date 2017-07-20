@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for extension 'timtab_tagcloud'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="pi1_title">Tag-Cloud</label>
+			<label index="pi1_plus_wiz_description">generate a tag-cloud of the most used tags</label>
+			<label index="pi2_title">List of posts</label>
+			<label index="pi2_plus_wiz_description">generate a list of posts of the given tag</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="pi1_title">Tag-Wolke</label>
+			<label index="pi1_plus_wiz_description">erstellt eine Tag-Wolke aus den am meisten verwendeten Tags</label>
+			<label index="pi2_title">Post-Liste</label>
+			<label index="pi2_plus_wiz_description">erstellt eine Liste von Posts die das übergebene Tag enthalten</label>
+		</languageKey>
+	</data>
+</T3locallang>
