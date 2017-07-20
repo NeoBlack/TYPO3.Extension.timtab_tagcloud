@@ -1,1 +1,2 @@
-Please report bugs, or new feature request at http://bugs.naegler.net
+This repository is onöy a backup repository.
+This extension is not maintained anymore.
